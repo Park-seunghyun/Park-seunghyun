@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm [이름]
+[자기 소개를 작성하시오.]
+---
+## 🚀 About Me
+- 🎓 B.S. in Industrial Engineering, Ajou University, Korea
+- 💡 Interested in AI based PHM 
 
-<!--
-**Park-seunghyun/Park-seunghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🛠 Tech Stack
 
-Here are some ideas to get you started:
+### 💻 Languages
+ - [Python]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 Data & ML
+- Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
+
+
+--- 
+## 🔥Activities
+BITAmin (AI Club) — 16th Staff | (Jul 2025 – present)
+
+---
+## 📫 Contact
+- Email: [brian12189@ajou.ac.kr](mailto:brian12189@ajou.ac.kr)
+
+
