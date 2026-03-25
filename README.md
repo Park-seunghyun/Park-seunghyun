@@ -1,5 +1,5 @@
-# 👋 Hello, I'm [이름]
-[자기 소개를 작성하시오.]
+# 👋 Hello, I'm [승현]
+[안녕하세요 박승현입니다]
 ---
 ## 🚀 About Me
 - 🎓 B.S. in Industrial Engineering, Ajou University, Korea
